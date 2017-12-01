@@ -1,0 +1,7 @@
+Yahoo servers that should be blocked using firewall rules and the DNS forwarder:
+  login.yahoo.com
+  msg.edit.yahoo.com
+  edit.messenger.yahoo.com
+  csa.yahoo.com
+  csb.yahoo.com
+  csc.yahoo.com

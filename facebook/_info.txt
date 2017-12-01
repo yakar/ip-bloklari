@@ -1,0 +1,6 @@
+tarih: 2015/03/18 12:02
+url..: http://www.arin.net | http://bgp.he.net/
+
+12 ipv4 + 4 ipv6 yeni bir blok eklendi: 18 Mart 2015
+yeni bir blok eklendi (IPv4 ve IPv6): 2 Aralık 2014
+yeni bloklar eklendi (IPv4): 1 Mart 2016

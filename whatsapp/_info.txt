@@ -1,0 +1,4 @@
+tarih: 2015/08/04 15:26
+url..: http://www.whatsapp.com/cidr.txt
+
+ipv4 ve ipv6 bloklar eklendi: 2015 Agustos 04

@@ -1,0 +1,5 @@
+MSN servers that should be blocked using firewall rules and the DNS forwarder:
+  webmessenger.msn.com
+  messenger.hotmail.com
+  gateway.messenger.hotmail.com
+Also use firewall rules to reject or block ports 1863, 901 and 6891-6900 to stop MSN Messenger.

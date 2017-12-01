@@ -1,0 +1,2 @@
+2015/07/16 12:38 ipv4 eklendi
+2015/03/24 16:16 Youtube ve google tarafından kullanılan video url'leri eklendi.

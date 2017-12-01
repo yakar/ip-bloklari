@@ -1,0 +1,4 @@
+Google Talk servers that should be blocked:
+  talk.google.com
+NOTE: that this is the same as www.google.com so should only be redirected in DNS and not blocked using firewall rules unless Google search should also be blocked.
+Also use firewall rules to block port 5222 to stop Google Talk.

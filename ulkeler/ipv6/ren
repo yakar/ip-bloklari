@@ -1,0 +1,5 @@
+#!/bin/bash
+for file in *.zone
+do
+  mv -- "${file}" "${file%.*}.txt"
+done
